@@ -11,7 +11,3 @@
 
 - npm install typescript -g
 - tsc --init
-
-
-## Resources and References
-

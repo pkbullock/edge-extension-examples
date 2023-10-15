@@ -3,7 +3,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 module.exports = {
     mode: "production",
     entry: {
-        sidebar: path.resolve(__dirname, "..", "src", "sidebar.ts"),
+        sidebar: path.resolve(__dirname, "..", "src", "sidebar.tsx"),
         ServiceWorker: path.resolve(__dirname, "..", "src", "serviceWorker.ts"),
     },
     output: {
@@ -11,7 +11,7 @@ module.exports = {
         filename: "[name].js",
     },
     resolve: {
-        extensions: [".ts", ".js"],
+        extensions: [".tsx", ".ts", ".js"],
     },
     module: {
         rules: [
