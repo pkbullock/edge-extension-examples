@@ -1,0 +1,29 @@
+{
+  "name": "sidebar-extension-example",
+  "version": "1.0.0",
+  "description": "Project demonstrating example of a sidebar in Edge extension with TypeScript/React/FluentUI",
+  "main": "sidebar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkbullock/edge-extension-examples.git"
+  },
+  "keywords": [
+    "Edge",
+    "Extension"
+  ],
+  "author": "Paul Bullock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkbullock/edge-extension-examples/issues"
+  },
+  "homepage": "https://github.com/pkbullock/edge-extension-examples#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.0.246",
+    "copy-webpack-plugin": "^11.0.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
