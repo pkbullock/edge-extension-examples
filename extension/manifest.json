@@ -1,8 +1,8 @@
 {
-    "name": "SharePoint Edge Extension",
+    "name": ">Sharepoint< Spelling Edge Extension",
     "version": "0.0.0.1",
     "manifest_version": 3,
-    "description": "An extension to highlight when SharePoint is mis-capitialized",
+    "description": "An extension to highlight when SharePoint is mis-capitialized, argh",
     "permissions": [
         "tabs",
         "activeTab",
