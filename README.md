@@ -1,6 +1,8 @@
 # sharepoint-edge-extension
 An example edge extension for demonstrating how they can be created
 
+> Note: Remember this uses chrome under the hood, alot of documentation is in chrome documentation sites rather than Edge.
+
 ## Edge Extension Resources and References
 
 - https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/
@@ -13,3 +15,5 @@ An example edge extension for demonstrating how they can be created
 - https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/sidebar
 - https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/whats-new/roadmap
 - https://developer.microsoft.com/en-us/microsoft-edge/extensions/
+- https://github.com/GoogleChrome/chrome-extensions-samples
+- https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples/sample.sidepanel-dictionary

@@ -2,7 +2,7 @@
 ## Setup
 
 - npm install
-- Enable Edge Developer Mode
+- Enable Edge Developer Mode ensure this is compiled first and the dist folder is referenced in the extension
 
 
 ## Modules and Components
