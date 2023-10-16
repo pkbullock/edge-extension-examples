@@ -14,7 +14,7 @@ const SidebarComponent: React.FC<{ data: any }> = ({ data }) => {
             Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
             Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
         </Body1>
-
+        
         <Body1>{typeof data === 'object' ? "Hello, this is the side bar, you selected:" + JSON.stringify(data) : data}</Body1>
     </Fragment>;
 };
