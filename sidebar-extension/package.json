@@ -31,5 +31,8 @@
     "ts-loader": "^9.5.0",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "^9.35.0"
   }
 }

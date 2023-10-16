@@ -20,3 +20,4 @@ An example edge extension for demonstrating how they can be created
 - https://webpack.js.org/plugins/copy-webpack-plugin/
 - https://webpack.js.org/guides/typescript/
 - https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/sidebar
+- https://fluent2.microsoft.design/components/web/react/card/usage
